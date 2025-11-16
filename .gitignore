@@ -31,6 +31,9 @@ Data/
 *.csv
 *.json
 
+# Keep app folder for Railway
+!app/
+
 # Model files
 *.pkl
 *.joblib
